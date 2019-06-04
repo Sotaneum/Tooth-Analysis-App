@@ -25,5 +25,5 @@ Tooth Analysis App
     ![alt](./doc/슬라이드13.PNG)
     ![alt](./doc/슬라이드16.PNG)
  - Demo
- 
-    ![alt](./doc/Teeth.gif)
+
+    ![alt](./doc/teeth.gif)
