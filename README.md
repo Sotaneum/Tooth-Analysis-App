@@ -2,10 +2,10 @@
 Tooth Analysis App
 
 ## PPT DOWNLOAD
- - [20190604PPT.pptx](https://raw.githubusercontent.com/Sotaneum/Tooth-Analysis-App/master/doc/20190604PPT.pptx)
+ - [20190604PPT.pptx](https://github.com/Sotaneum/Tooth-Analysis-App/blob/master/doc/20190604PPT.pptx?raw=true)
 
 ## DEMO VIDEO DOWNLOAD
- - [Teeth.mp4](https://raw.githubusercontent.com/Sotaneum/Tooth-Analysis-App/master/doc/Teeth.mp4)
+ - [Teeth.mp4](https://github.com/Sotaneum/Tooth-Analysis-App/blob/master/doc/Teeth.mp4?raw=true)
 
 ## INFO
   - Presentation
